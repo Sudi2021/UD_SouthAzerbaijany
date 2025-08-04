@@ -1,1 +1,1 @@
-# UD_SouthAzeri
+# UD_SouthAzerbaijani
